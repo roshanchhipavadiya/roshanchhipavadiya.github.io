@@ -83885,7 +83885,7 @@ n=J.ai(o)
 l.push([n.h(o,"RowNo"),n.h(o,"Treatment_value"),n.h(o,"MFGID"),n.h(o,"ReportNo"),n.h(o,"Lab"),n.h(o,"Shape"),n.h(o,"Cts"),n.h(o,"Color"),n.h(o,"Purity"),n.h(o,"PartyORate"),n.h(o,"PartyDisc"),n.h(o,"PartyRate"),n.h(o,"PartyValue"),n.h(o,"Cut"),n.h(o,"Polish"),n.h(o,"Symm"),n.h(o,"Fls"),n.h(o,"Length"),n.h(o,"Width"),n.h(o,"Depth"),n.h(o,"Measurements"),n.h(o,"TablePer"),n.h(o,"DepthPer"),n.h(o,"CA"),n.h(o,"CH"),n.h(o,"PA"),n.h(o,"PH"),n.h(o,"VideoLink"),n.h(o,"ImageLink"),n.h(o,"ReportLink"),n.h(o,"RATIO"),n.h(o,"BGM")])}q=A.uF(B.FZ,B.A_.eR(l),B.a1,!1)
 m=document.createElement("a")
 m.href="data:text/csv;charset=utf-8,"+q
-m.setAttribute("download","table_data.csv")
+m.setAttribute("download","Shiv-Krishna_Stock.csv")
 m.click()
 q=b.ai(t.Pu)
 q.toString
