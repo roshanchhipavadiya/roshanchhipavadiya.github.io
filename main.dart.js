@@ -83964,7 +83964,7 @@ if(d<=500)k.a9(new A.akP())
 else k.a9(new A.akQ())
 d=f.$3(new A.akR(k),"Reload",B.Dv)
 s=t.p
-f=A.b([f.$3(new A.akS(k,a),"Download",B.Ds),B.y5,f.$3(new A.akT(i),"Call",B.Dn),B.y5,f.$3(new A.akU(k),"Filter Data",B.Dt)],s)
+f=A.b([f.$3(new A.akS(k,a),"Exel Download",B.Ds),B.y5,f.$3(new A.akT(i),"Call",B.Dn),B.y5,f.$3(new A.akU(k),"Filter Data",B.Dt)],s)
 r=A.auk("assets/images/SKDbg.png",70)
 if($.Wq)i=A.lD(A.fk(A.auk("assets/images/diamondLoder.gif",j),100,100),j,j)
 else if(J.dr($.uU))i=B.lu
@@ -83983,7 +83983,7 @@ l=l==null?j:B.d.ad(l,2)
 i=A.ph(A.dv(j,A.ip(A.b([p,B.aQ,o,B.aQ,n,B.aQ,m,B.aQ,h.$2("Total Amount",A.j(l)+" $"),B.aQ,g.$0(),B.aQ,A.he(A.b([A.hk(!1,j,!0,B.yq,j,!0,j,j,j,j,j,j,j,j,j,j,new A.akW(i),j,j,j,j,j,j,j),B.ka,A.hk(!1,j,!0,B.yr,j,!0,j,j,j,j,j,j,j,j,j,j,new A.akX(i),j,j,j,j,j,j,j)],s),B.ci,B.al,B.am),B.aQ],s),B.aI,B.jw,B.am,j),B.q,q,j,j,50,j,B.mf,e.a.a/1),j,B.Z,j,!1,B.ak)}h=A.b([k.cm("No."),k.cm("Type"),k.cm("Stock ID."),k.cm("Report #"),k.cm("Lab"),k.cm("Shape"),k.cm("Carat"),k.cm("Color"),k.cm("Clarity"),k.cm("Rap Rate"),k.cm("Dis %"),k.cm("$ Price"),k.cm("$ Amount"),k.cm("Cut"),k.cm("Polish"),k.cm("Symmetry"),k.cm("Flo."),k.cm("Length"),k.cm("Width"),k.cm("Height"),k.cm("Measurements"),k.cm("Table %"),k.cm("Depth %"),k.cm("Cr.Angle"),k.cm("Cr.Height %"),k.cm("Pav.Angle"),k.cm("Pav.Depth"),k.cm("Video 360"),k.cm("Photo"),k.cm("PDF"),k.cm("Ratio"),k.cm("BGM"),k.cm("Girdle %")],t.UR)
 g=k.ay
 e=$.aw()
-i=A.ph(A.he(A.b([i,A.he(A.b([new A.yf(h,j,j,!0,250,new A.OJ(a,g,e),new A.bn(new A.akY(),t.T),j)],s),B.aI,B.al,B.am)],s),B.aI,B.al,B.am),j,B.Z,j,!1,B.aH)}return new A.zf(new A.vj(d,r,f,!0,new A.S2(j,j,1/0,56),j),i,j)}}
+i=A.ph(A.he(A.b([i,A.he(A.b([new A.yf(h,j,j,!0,150,new A.OJ(a,g,e),new A.bn(new A.akY(),t.T),j)],s),B.aI,B.al,B.am)],s),B.aI,B.al,B.am),j,B.Z,j,!1,B.aH)}return new A.zf(new A.vj(d,r,f,!0,new A.S2(j,j,1/0,56),j),i,j)}}
 A.al9.prototype={
 $0(){$.Wq=!0},
 $S:0}
