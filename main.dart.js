@@ -84177,14 +84177,14 @@ $0(){this.a.ch=this.b},
 $S:0}
 A.akC.prototype={
 $1(a){var s=this.a,r=t.a4
-s.x=A.aa(new A.a5(A.b(s.f.a.a.split(","),t.s),new A.akn(),r),!0,r.i("b2.E"))},
+s.x=A.aa(new A.a5(A.b(s.f.a.a.toUpperCase().split(","),t.s),new A.akn(),r),!0,r.i("b2.E"))},
 $S:56}
 A.akn.prototype={
 $1(a){return B.c.hL(a)},
 $S:45}
 A.akD.prototype={
 $1(a){var s=this.a,r=t.a4
-s.y=A.aa(new A.a5(A.b(s.r.a.a.split(","),t.s),new A.akm(),r),!0,r.i("b2.E"))},
+s.y=A.aa(new A.a5(A.b(s.r.a.a.toUpperCase().split(","),t.s),new A.akm(),r),!0,r.i("b2.E"))},
 $S:56}
 A.akm.prototype={
 $1(a){return B.c.hL(a)},
