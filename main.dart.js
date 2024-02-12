@@ -83901,7 +83901,7 @@ g=t.z
 d=A.aG2()
 d.a="GET"
 s=6
-return A.X(J.aCd(n,"https://flask-fire-v1-7kuzopkznq-uc.a.run.app/api/get_stock",null,null,null,d,null,g),$async$nz)
+return A.X(J.aCd(n,"https://rt-fire.vercel.app/api/get_stock",null,null,null,d,null,g),$async$nz)
 case 6:m=a0
 if(m.c===200){l=m.a
 A.h8("Stock List: "+A.j(l))
