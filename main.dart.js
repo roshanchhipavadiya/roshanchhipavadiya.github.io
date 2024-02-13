@@ -90319,7 +90319,7 @@ $S:113}
 A.aqd.prototype={
 $0(){var s=0,r=A.U(t.H),q=this
 var $async$$0=A.V(function(a,b){if(a===1)return A.R(b,r)
-while(true)switch(s){case 0:q.a.$1("whatsapp://send?phone=+916352743508")
+while(true)switch(s){case 0:q.a.$1("https://wa.me/+916352743508")
 return A.S(null,r)}})
 return A.T($async$$0,r)},
 $S:27}
