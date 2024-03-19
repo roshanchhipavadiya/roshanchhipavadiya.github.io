@@ -91439,7 +91439,7 @@ h=t.z
 e=A.aP5()
 e.a="GET"
 s=6
-return A.a0(J.aL7(n,"https://shiv-krishna-diamond-default-rtdb.firebaseio.com/get_stock.json",null,null,null,e,null,h),$async$oI)
+return A.a0(J.aL7(n,"https://rt-fire.vercel.app/api/get_stock",null,null,null,e,null,h),$async$oI)
 case 6:m=b
 if(m.c===200){l=m.a
 $.my=l
